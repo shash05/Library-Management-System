@@ -1,0 +1,24 @@
+<body>
+<div class="container" id="div1">
+
+    <div class="card">
+        <h2>Hey Student</h2>
+        <h5>Welcome to the  Library</h5>
+        <br>
+        <div class="inputs">
+            <label>UserName</label>
+            <input type="text" class="form-control" [(ngModel)]="userName">
+        </div>
+        <div class="inputs">
+            <label>Password</label>
+            <input type="password" class="form-control" [(ngModel)]="password">
+        </div>
+        <div class="inputs">
+            <label>USN</label>
+            <input type="text"class="form-control" [(ngModel)]="usn">
+        </div>
+        <a class="btn-login"(click)="studentReg()">Sign Up</a>
+        <a  [routerLink]="['/student-login']">Already Have An Account ? Login</a>
+    </div>
+</div>
+</body>

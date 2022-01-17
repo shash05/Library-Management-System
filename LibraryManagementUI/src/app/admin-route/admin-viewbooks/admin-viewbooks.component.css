@@ -1,0 +1,14 @@
+body{
+    min-height: 86.9vh;
+    padding: 40px 0;
+    /* background-color: aqua; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+    background-image:url('https://www.oneeducation.org.uk/wp-content/uploads/2018/08/Admin-Secretarial-and-PA-Diploma-Level-3.jpg') ;
+    background-attachment: fixed;
+    background-size: cover;
+       
+}
+

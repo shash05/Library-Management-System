@@ -1,0 +1,28 @@
+<app-admin-route></app-admin-route>
+<body>
+    <div class="container my-5" style="opacity: 1">
+      <table class="table table-hover">
+        <thead class="bg-dark text-light" style="z-index: inherit; font-weight: bold; opacity: 0.8">
+          <tr>
+            <th>BookId</th>
+            <th>Book Title</th>
+            <th>Author Name</th>
+            <th>Cost</th>
+            <th>Quantity</th>
+          </tr>
+        </thead>
+        <tbody
+          class="text-dark bg-light"
+          style="z-index: inherit; font-weight: bold; opacity: 0.8"
+        >
+          <tr *ngFor="let dataitem of bookList">
+            <td>{{ dataitem.bookId }}</td>
+            <td>{{ dataitem.bookTitle }}</td>
+            <td>{{ dataitem.authorName }}</td>
+            <td>{{ dataitem.cost }}</td>
+            <td>{{ dataitem.availableQuantity }}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+</body>

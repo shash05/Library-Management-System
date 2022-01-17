@@ -1,0 +1,15 @@
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\DALContrast\bin\Debug\netcoreapp3.1\DALContrast.deps.json
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\DALContrast\bin\Debug\netcoreapp3.1\DALContrast.dll
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\DALContrast\bin\Debug\netcoreapp3.1\DALContrast.pdb
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\DALContrast\bin\Debug\netcoreapp3.1\DTO.dll
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\DALContrast\bin\Debug\netcoreapp3.1\DTO.pdb
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\DALContrast\obj\Debug\netcoreapp3.1\DALContrast.csproj.AssemblyReference.cache
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\DALContrast\obj\Debug\netcoreapp3.1\DALContrast.GeneratedMSBuildEditorConfig.editorconfig
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\DALContrast\obj\Debug\netcoreapp3.1\DALContrast.AssemblyInfoInputs.cache
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\DALContrast\obj\Debug\netcoreapp3.1\DALContrast.AssemblyInfo.cs
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\DALContrast\obj\Debug\netcoreapp3.1\DALContrast.csproj.CoreCompileInputs.cache
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\DALContrast\obj\Debug\netcoreapp3.1\DALContrast.csproj.CopyComplete
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\DALContrast\obj\Debug\netcoreapp3.1\DALContrast.dll
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\DALContrast\obj\Debug\netcoreapp3.1\DALContrast.pdb
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\DALContrast\bin\Debug\netcoreapp3.1\Database.dll
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\DALContrast\bin\Debug\netcoreapp3.1\Database.pdb

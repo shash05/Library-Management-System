@@ -1,0 +1,17 @@
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\DALImplementation\bin\Debug\netcoreapp3.1\DALImplementation.deps.json
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\DALImplementation\bin\Debug\netcoreapp3.1\DALImplementation.dll
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\DALImplementation\bin\Debug\netcoreapp3.1\DALImplementation.pdb
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\DALImplementation\bin\Debug\netcoreapp3.1\DALContrast.dll
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\DALImplementation\bin\Debug\netcoreapp3.1\DTO.dll
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\DALImplementation\bin\Debug\netcoreapp3.1\DALContrast.pdb
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\DALImplementation\bin\Debug\netcoreapp3.1\DTO.pdb
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\DALImplementation\obj\Debug\netcoreapp3.1\DALImplementation.csproj.AssemblyReference.cache
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\DALImplementation\obj\Debug\netcoreapp3.1\DALImplementation.GeneratedMSBuildEditorConfig.editorconfig
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\DALImplementation\obj\Debug\netcoreapp3.1\DALImplementation.AssemblyInfoInputs.cache
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\DALImplementation\obj\Debug\netcoreapp3.1\DALImplementation.AssemblyInfo.cs
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\DALImplementation\obj\Debug\netcoreapp3.1\DALImplementation.csproj.CoreCompileInputs.cache
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\DALImplementation\obj\Debug\netcoreapp3.1\DALImplementation.csproj.CopyComplete
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\DALImplementation\obj\Debug\netcoreapp3.1\DALImplementation.dll
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\DALImplementation\obj\Debug\netcoreapp3.1\DALImplementation.pdb
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\DALImplementation\bin\Debug\netcoreapp3.1\Database.dll
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\DALImplementation\bin\Debug\netcoreapp3.1\Database.pdb

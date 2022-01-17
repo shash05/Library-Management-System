@@ -1,0 +1,21 @@
+<body>
+<div class="container" id="div1">
+
+    <div class="card">
+        <h2>Welcome Student</h2>
+        <h5>Good to see you in the Library</h5>
+        <br>
+        <div class="inputs">
+            <label>UserName</label>
+            <input type="text" class="form-control" [(ngModel)]="userName">
+        </div>
+        <div class="inputs">
+            <label>Password</label>
+            <input type="password" class="form-control" [(ngModel)]="password">
+        </div>
+        
+        <a class="btn-login" (click)="studentLog()">Log In</a>
+        <a class="btn-outline-login" [routerLink]="['/student-reg']">New User? SignUp</a>
+    </div>
+</div>
+</body>

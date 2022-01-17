@@ -1,0 +1,13 @@
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\DTOsp\bin\Debug\netcoreapp3.1\DTO.deps.json
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\DTOsp\bin\Debug\netcoreapp3.1\DTO.runtimeconfig.json
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\DTOsp\bin\Debug\netcoreapp3.1\DTO.runtimeconfig.dev.json
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\DTOsp\bin\Debug\netcoreapp3.1\DTO.dll
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\DTOsp\bin\Debug\netcoreapp3.1\DTO.pdb
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\DTOsp\obj\Debug\netcoreapp3.1\DTO.csproj.AssemblyReference.cache
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\DTOsp\obj\Debug\netcoreapp3.1\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\DTOsp\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\DTOsp\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\DTOsp\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\DTOsp\obj\Debug\netcoreapp3.1\DTO.dll
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\DTOsp\obj\Debug\netcoreapp3.1\DTO.pdb
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\DTOsp\obj\Debug\netcoreapp3.1\DTO.genruntimeconfig.cache

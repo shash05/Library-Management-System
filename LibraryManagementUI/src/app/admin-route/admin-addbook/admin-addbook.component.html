@@ -1,0 +1,29 @@
+<app-admin-route></app-admin-route>
+<body>
+    <div class="container" id="div1">
+    
+        <div class="card">
+            <h2>ADD a New Book</h2>
+            <div class="inputs">
+                <label>Book Title</label>
+                <input type="text" class="form-control" [(ngModel)]="bookTitle">
+            </div>
+            <div class="inputs">
+                <label>Author Name</label>
+                <input type="text" class="form-control" [(ngModel)]="authorName">
+            </div>
+            <div class="inputs">
+                <label>Cost</label>
+                <input type="text" class="form-control" [(ngModel)]="cost">
+            </div>
+            <div class="inputs">
+                <label>Quantity</label>
+                <input type="text" class="form-control" [(ngModel)]="availableQuantity">
+            </div>
+            
+            <a class="btn-login" (click)="addBook()">Add Book</a>
+        </div>
+    </div>
+    </body>
+
+    

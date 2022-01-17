@@ -1,0 +1,12 @@
+body{
+    min-height: 92.9vh;
+    /* padding: 40px 0; */
+    /* background-color: aqua; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+    background-image:url('https://media.edutopia.org/styles/responsive_2880px_16x9/s3/masters/d7_images/cover_media/deisley-169hero-library-istock.jpg');
+    background-attachment: fixed;
+    /* background-size: cover; */
+}

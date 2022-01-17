@@ -1,0 +1,528 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\LibraryManagementBackend\\LibraryManagementBackend.csproj": {}
+  },
+  "projects": {
+    "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\BusinessContrast\\BusinessContrast.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\BusinessContrast\\BusinessContrast.csproj",
+        "projectName": "BusinessContrast",
+        "projectPath": "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\BusinessContrast\\BusinessContrast.csproj",
+        "packagesPath": "C:\\Users\\Shashank.K\\.nuget\\packages\\",
+        "outputPath": "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\BusinessContrast\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shashank.K\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\BusinessImplementation\\BusinessImplementation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\BusinessImplementation\\BusinessImplementation.csproj",
+        "projectName": "BusinessImplementation",
+        "projectPath": "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\BusinessImplementation\\BusinessImplementation.csproj",
+        "packagesPath": "C:\\Users\\Shashank.K\\.nuget\\packages\\",
+        "outputPath": "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\BusinessImplementation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shashank.K\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\BusinessContrast\\BusinessContrast.csproj": {
+                "projectPath": "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\BusinessContrast\\BusinessContrast.csproj"
+              },
+              "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\DALContrast\\DALContrast.csproj": {
+                "projectPath": "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\DALContrast\\DALContrast.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\DALContrast\\DALContrast.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\DALContrast\\DALContrast.csproj",
+        "projectName": "DALContrast",
+        "projectPath": "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\DALContrast\\DALContrast.csproj",
+        "packagesPath": "C:\\Users\\Shashank.K\\.nuget\\packages\\",
+        "outputPath": "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\DALContrast\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shashank.K\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\DTOsp\\DTO.csproj": {
+                "projectPath": "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\DTOsp\\DTO.csproj"
+              },
+              "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\DTO\\Database.csproj": {
+                "projectPath": "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\DTO\\Database.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\DALImplementation\\DALImplementation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\DALImplementation\\DALImplementation.csproj",
+        "projectName": "DALImplementation",
+        "projectPath": "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\DALImplementation\\DALImplementation.csproj",
+        "packagesPath": "C:\\Users\\Shashank.K\\.nuget\\packages\\",
+        "outputPath": "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\DALImplementation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shashank.K\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\DALContrast\\DALContrast.csproj": {
+                "projectPath": "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\DALContrast\\DALContrast.csproj"
+              },
+              "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\DTO\\Database.csproj": {
+                "projectPath": "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\DTO\\Database.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\DTOsp\\DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\DTOsp\\DTO.csproj",
+        "projectName": "DTO",
+        "projectPath": "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\DTOsp\\DTO.csproj",
+        "packagesPath": "C:\\Users\\Shashank.K\\.nuget\\packages\\",
+        "outputPath": "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\DTOsp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shashank.K\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\DTO\\Database.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\DTO\\Database.csproj",
+        "projectName": "Database",
+        "projectPath": "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\DTO\\Database.csproj",
+        "packagesPath": "C:\\Users\\Shashank.K\\.nuget\\packages\\",
+        "outputPath": "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shashank.K\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\DTOsp\\DTO.csproj": {
+                "projectPath": "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\DTOsp\\DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\LibraryManagementBackend\\LibraryManagementBackend.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\LibraryManagementBackend\\LibraryManagementBackend.csproj",
+        "projectName": "LibraryManagementBackend",
+        "projectPath": "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\LibraryManagementBackend\\LibraryManagementBackend.csproj",
+        "packagesPath": "C:\\Users\\Shashank.K\\.nuget\\packages\\",
+        "outputPath": "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\LibraryManagementBackend\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shashank.K\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\BusinessContrast\\BusinessContrast.csproj": {
+                "projectPath": "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\BusinessContrast\\BusinessContrast.csproj"
+              },
+              "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\BusinessImplementation\\BusinessImplementation.csproj": {
+                "projectPath": "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\BusinessImplementation\\BusinessImplementation.csproj"
+              },
+              "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\DALContrast\\DALContrast.csproj": {
+                "projectPath": "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\DALContrast\\DALContrast.csproj"
+              },
+              "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\DALImplementation\\DALImplementation.csproj": {
+                "projectPath": "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\DALImplementation\\DALImplementation.csproj"
+              },
+              "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\DTO\\Database.csproj": {
+                "projectPath": "D:\\shash\\LibraryManagementSystem\\LibraryManagementBackend\\DTO\\Database.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

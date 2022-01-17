@@ -1,0 +1,10 @@
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\BusinessContrast\bin\Debug\netcoreapp3.1\BusinessContrast.deps.json
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\BusinessContrast\bin\Debug\netcoreapp3.1\BusinessContrast.dll
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\BusinessContrast\bin\Debug\netcoreapp3.1\BusinessContrast.pdb
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\BusinessContrast\obj\Debug\netcoreapp3.1\BusinessContrast.csproj.AssemblyReference.cache
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\BusinessContrast\obj\Debug\netcoreapp3.1\BusinessContrast.GeneratedMSBuildEditorConfig.editorconfig
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\BusinessContrast\obj\Debug\netcoreapp3.1\BusinessContrast.AssemblyInfoInputs.cache
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\BusinessContrast\obj\Debug\netcoreapp3.1\BusinessContrast.AssemblyInfo.cs
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\BusinessContrast\obj\Debug\netcoreapp3.1\BusinessContrast.csproj.CoreCompileInputs.cache
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\BusinessContrast\obj\Debug\netcoreapp3.1\BusinessContrast.dll
+D:\shash\LibraryManagementSystem\LibraryManagementBackend\BusinessContrast\obj\Debug\netcoreapp3.1\BusinessContrast.pdb

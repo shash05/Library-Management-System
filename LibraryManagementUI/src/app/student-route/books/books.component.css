@@ -1,0 +1,13 @@
+body{
+    min-height: 86.9vh;
+    padding: 40px 0;
+    /* background-color: aqua; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+    background-image:url('https://onlinegrad.syracuse.edu/wp-content/uploads/sites/36/2021/02/5367-design-thinking_hero.jpg') ;
+    background-attachment: fixed;
+    background-size: cover;
+}
+

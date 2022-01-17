@@ -1,0 +1,33 @@
+body{
+    min-height: 86.9vh;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+    background-image:url('https://onlinegrad.syracuse.edu/wp-content/uploads/sites/36/2021/02/5367-design-thinking_hero.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.student-profile .card {
+    border-radius: 10px;
+  }
+
+  .student-profile .card .card-header .profile_img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin: 10px auto;
+    border: 10px solid #ccc;
+    border-radius: 50%;
+  }
+
+  .student-profile .card h3 {
+    font-size: 20px;
+    font-weight: 700;
+  }
+
+  .student-profile .card p {
+    font-size: 16px;
+    color: #000;
+  }
+  

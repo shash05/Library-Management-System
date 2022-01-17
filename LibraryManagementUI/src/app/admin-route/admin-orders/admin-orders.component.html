@@ -1,0 +1,42 @@
+<app-admin-route></app-admin-route>
+<body>
+<div class="container my-5" style="opacity: 1">
+  
+    <table class="table table-hover" >
+      <thead class="bg-dark text-light"style="z-index: inherit; font-weight: bold; opacity: 0.8">
+        <tr>
+          <th>OrderId</th>
+          <th>Order date</th>
+          <th>Return Date</th>
+          <th>BookTitle</th>
+          <th>Author Name</th>
+          <th>Cost</th>
+          <th>Student Name</th>
+          <th>USN</th>
+        </tr>
+      </thead>
+      <tbody class="text-dark bg-light"
+      style="z-index: inherit; font-weight: bold; opacity: 0.9">
+          <tr *ngFor="let data of orderlist.slice().reverse()  | paginate
+          : {
+              itemsPerPage: itemsPerPage,
+              currentPage: page,
+              totalItems: totalItems
+            }">
+              <td>{{data.orderId}}</td>
+              <td>{{(data.orderDate === null? '':data.orderDate.split('T')[0])}}</td>
+              <td [classList]="(data.returnDate === null?'notReturned':'returned')" >{{(data.returnDate === null?'Not returned':data.returnDate.split('T')[0])}}</td>
+              <td>{{data.bookTitle}}</td>
+              <td>{{data.authorName | titlecase}}</td>
+              <td>{{data.cost}}</td>
+              <td>{{data.studentName}}</td>
+              <td>{{data.usn}}</td>
+          </tr>
+      </tbody>
+      </table>
+      </div>
+      <pagination-controls
+      class="pagi"
+      (pageChange)="orderlist((page = $event))">
+    </pagination-controls>
+    </body>
